@@ -27,6 +27,6 @@ Create a .env file:
 
 GROQ_API_KEY=your_api_key_here
 ```
-#🔐 Security
+## 🔐 Security
 
 API keys are stored locally using .env and are not committed to the repository.
