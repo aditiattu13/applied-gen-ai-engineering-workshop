@@ -1,0 +1,37 @@
+RESEARCH PAPER ON ARTIFICIAL INTELLIGENCE &
+ITS APPLICATIONS
+Prof. Neha Saini
+Assistant Professor in Department of Computer Science & IT
+SDAM College Dinanagar
+ABSTRACTIt is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to
+the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that
+are biologically observable. While no consensual definition of Artificial Intelligence (AI) exists, AI is broadly characterized
+as the study of computations that allow for perception, reason and action. Today, the amount of data that is generated, by
+both humans and machines, far outpaces humans’ ability to absorb, interpret, and make complex decisions based on that data.
+Artificial intelligence forms the basis for all computer learning and is the future of all complex decision making. This paper
+examines features of artificial Intelligence, introduction, definitions of AI, history, applications, growth and achievements.
+KEYWORDS- machine learning,deep learning,neural networks,Natural Language Processing and Knowledge Base System
+ INTRODUCTIONArtificial Intelligence ( AI ) is the branch of computer science which deals with intelligence of machines where an intelligent agent
+is a system that takes actions which maximize its chances of success. It is the study of ideas which enable computers to do the things
+that make people seem intelligent. The central principles of AI include such as reasoning, knowledge, planning, learning,
+communication, perception and the ability to move and manipulate objects. It is the science and engineering of making intelligent
+machines, especially intelligent computer programs
+ARTIFICIAL INTELLIGENCE METHODS:
+Machine LearningIt is one of the applications of AI where machines are not explicitly programmed to perform certain tasks; rather, they learn and
+improve from experience automatically. Deep Learning is a subset of machine learning based on artificial neural networks for
+predictive analysis. There are various machine learning algorithms, such as Unsupervised Learning, Supervised Learning, and
+Reinforcement Learning. In Unsupervised Learning, the algorithm does not use classified information to act on it without any
+guidance. In Supervised Learning, it deduces a function from the training data, which consists of a set of an input object and the
+desired output. Reinforcement learning is used by machines to take suitable actions to increase the reward to find the best possibility
+which should be taken in to account.
+Natural Language Processing(NLP)
+It is the interactions between computers and human language where the computers are programmed to process natural languages.
+Machine Learning is a reliable technology for Natural Language Processing to obtain meaning from human languages. In NLP, the
+audio of a human talk is captured by the machine. Then the audio to text conversation occurs, and then the text is processed where
+the data is converted into audio. Then the machine uses the audio to respond to humans. Applications of Natural Language
+Processing can be found in IVR (Interactive Voice Response) applications used in call centres, language translation applications
+like Google Translate and word processors such as Microsoft Word to check the accuracy of grammar in text. However, the nature
+of human languages makes the Natural Language Processing difficult because of the rules which are involved in the passing of
+information using natural language, and they are not easy for the computers to understand. So NLP uses algorithms to recognize
+and abstract the rules of the natural languages where the unstructured data from the human languages can be converted to a format
+that is understood by the computer.
